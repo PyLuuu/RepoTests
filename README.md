@@ -8,7 +8,7 @@
 # Estudo:
 <li>Python</li>
 
-# Estudo momento:
-<li>Git + GitHub</li>
+# Estudo do momento:
+<li>CVSGit + GitHub</li>
 
 ***Obs.: Sem faculdade apenas programando por paixão a esta arte.***
