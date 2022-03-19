@@ -1,0 +1,16 @@
+# Sites Uteis
+
+### Aqui estarão links de canais, sites tudo que eu julgar útil para meu aprendizado.
+
+***O primeiro link é de um site de checagem de sintaxe. Você basicamente põe seu código e ele mostrará as partes inadequadas que merecem uma atenção e correção.***
+    
+- <a href="https://www.pythonchecker.com/">Python Checker</a>
+
+***O link do site do Python, a introdução.***
+## ***O que é Python?***
+
+- <a href="https://wiki.python.org/moin/BeginnersGuide">Python</a>
+
+***Obs.: Não me vejo no básico do básico já criei alguns games com Python + Pygame, mas é bom deixar anotado aqui caso alguém queira se jogar nessa jornada.***
+
+
