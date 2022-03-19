@@ -6,10 +6,12 @@
     
 - <a href="https://www.pythonchecker.com/">Python Checker</a>
 
-***O link do site do Python, a introdução.***
 ## ***O que é Python?***
 
 - <a href="https://wiki.python.org/moin/BeginnersGuide">Python</a>
+
+
+***O link do site do Python, a introdução.***
 
 ***Obs.: Não me vejo no básico do básico já criei alguns games com Python + Pygame, mas é bom deixar anotado aqui caso alguém queira se jogar nessa jornada.***
 
