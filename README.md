@@ -1,3 +1,11 @@
-# projetogit
+# RepoTests
+### Repositório para fazer testes e armazenar materias de estudo
 
-Projeto para o utilizar no [tutorial de Git](https://medium.com/@giu.drawer/utilizando-o-git-como-vcs-3614b2754572).
+# Programo em:
+<li>Python</li>
+<li>Básico de HTML/CSS</li>
+
+# Estudo:
+<li>Python</li>
+
+***Obs.: Sem faculdade apenas programando por paixão a esta arte.***
