@@ -15,4 +15,7 @@
 
 ***Obs.: Não me vejo no básico do básico já criei alguns games com Python + Pygame, mas é bom deixar anotado aqui caso alguém queira se jogar nessa jornada.***
 
+## Exemplos práticos de Python
 
+- <a href="https://wiki.python.org/moin/SimplePrograms">Exemplos de código Python</a>
+***Jamais copie e cole, se quiser aprender digite letra por letra.***
