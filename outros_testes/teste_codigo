@@ -1,0 +1,48 @@
+                                                                                
+#include <config.h>                                                             Provides system specific information
+#include <stdio.h>                                                              Provides standard I/O capability
+#include <sys/types.h>                                                          Provides system data types
+#include <getopt.h>                                                             ...!includes auto-comment...
+                                                                                
+#include "system.h"                                                             ...!includes auto-comment...
+                                                                                
+#include "error.h"                                                              ...!includes auto-comment...
+#include "full-write.h"                                                         ...!includes auto-comment...
+#include "long-options.h"                                                       ...!includes auto-comment...
+                                                                                
+/* The official name of this program (e.g., no 'g' prefix).  */                 
+#define PROGRAM_NAME "yes"                                                      Line 31
+                                                                                
+#define AUTHORS proper_name ("David MacKenzie")                                 Line 33
+                                                                                
+static struct option const long_options[] =                                     Line 35
+{                                                                               
+  {NULL, 0, NULL, 0}                                                            Line 37
+};                                                                              Block 1
+                                                                                
+void                                                                            Line 40
+usage (int status)                                                              Line 41
+{                                                                               
+  if (status != EXIT_SUCCESS)                                                   Line 43
+    emit_try_help ();                                                           ...!common auto-comment...
+  else                                                                          Line 45
+    {                                                                           
+      printf (_("\                                                              Line 47
+Usage: %s [STRING]...\n\                                                        Line 48
+  or:  %s OPTION\n\                                                             Line 49
+"),                                                                             Line 50
+              program_name, program_name);                                      Line 51
+                                                                                
+      fputs (_("\                                                               Line 53
+Repeatedly output a line with all specified STRING(s), or 'y'.\n\               Line 54
+\n\                                                                             
+"), stdout);                                                                    Line 56
+      fputs (HELP_OPTION_DESCRIPTION, stdout);                                  Line 57
+      fputs (VERSION_OPTION_DESCRIPTION, stdout);                               Line 58
+      emit_ancillary_info (PROGRAM_NAME);                                       Line 59
+    }                                                                           
+  exit (status);                                                                Line 61
+}                                                                               Block 2
+                                                                                
+int                                                                             
+               
