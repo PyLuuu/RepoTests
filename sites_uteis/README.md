@@ -19,3 +19,8 @@
 
 - <a href="https://wiki.python.org/moin/SimplePrograms">Exemplos de código Python</a>
 ***Jamais copie e cole, se quiser aprender digite letra por letra.***
+
+## Como criar um pacote Python?
+
+Na pasta [packaging_tutorial](../outros_testes/packaging_tutorial) vemos uma estrutura, ela é uma estrutura de pacote Python do tutorial: [Python Package Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/).
+
