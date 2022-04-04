@@ -1,4 +1,4 @@
-# Sites Uteis
+# Sites Úteis
 
 ### Aqui estarão links de canais, sites tudo que eu julgar útil para meu aprendizado.
 
