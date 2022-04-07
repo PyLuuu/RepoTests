@@ -24,3 +24,8 @@
 
 Na pasta [packaging_tutorial](../outros_testes/packaging_tutorial) vemos uma estrutura, ela é uma estrutura de pacote Python do tutorial: [Python Package Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/).
 
+# Cursos completos
+
+## Vulnerabilidade Web
+
+Download: [•-• click here °-°](https://downloadcursos.top/seguranca-web-vulnerabilidades-do-seu-sistema-e-owasp/)
